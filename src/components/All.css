@@ -1,0 +1,42 @@
+@media (max-width:290px) {
+    #b-t-n {
+        height: 60px;
+        width: 60px;
+    }
+
+    #b-t-n-BOX {
+        gap: 4px;
+    }
+
+    #history-btn {
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    #h-btn-box {
+        width: 50px;
+    }
+
+    #bb-box {
+        width: 50px;
+    }
+
+    #tt {
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    #uinfo {
+        width: 220px;
+    }
+
+    #bbbtn {
+        width: 40px;
+        height: 40px;
+    }
+    #bbblogo{
+        font-size: 27px;
+    }
+}
